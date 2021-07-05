@@ -1,0 +1,14 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_Spark_Core_01_INST"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Parent=Material'"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master.M_Add_Sprite_Master"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="DIFF"),ParameterValue=Texture2D'"/Game/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Spark_Core.T_Spark_Core"',ExpressionGUID=CF5F0B544E27A6788CBC7396A71DBF97)
+   BasePropertyOverrides=(BlendMode=BLEND_Additive,ShadingModel=MSM_Unlit,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=01D038254BAF8122510C61B031B942F0
+   CachedReferencedTextures(0)=Texture2D'"/Engine/EngineResources/Black.Black"'
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=1AE3ACC14FEAF33B25F67995FF67E34B
+End Object
